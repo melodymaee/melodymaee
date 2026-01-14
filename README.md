@@ -1,7 +1,7 @@
 # Hi, I'm Melody Mae! 👋
 
 👩🏻‍💻 Project Technical Specialist on Artifical Intelligence sharing about my journey and learnings in tech <br/>
-🎓 Studied PhD [Computer Science\() at the Rice University at Houston, Texas <br/>
+🎓 Doing PhD Studies
 🎥 Making videos about living girly tech life and travel <br>
 💭 Learning neural network and full stack development! 
 
